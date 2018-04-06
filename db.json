@@ -1,6 +1,6 @@
 {
   "games": [
-  {"map": "Hills of Gold", "difficulty": "easy", "joined_players": 1, "max_players": 2},
-  {"map": "Home Stretch", "difficulty": "easy", "joined_players": 0, "max_players": 4}
+  {map: "Hills of Gold", "difficulty": "easy", "joined_players": 1, "max_players": 2},
+  {map": "Home Stretch", "difficulty": "easy", "joined_players": 0, "max_players": 4}
     ]
 }
